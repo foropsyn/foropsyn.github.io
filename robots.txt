@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://foropsyn.github.io/sitemap.html.gz
+Sitemap: https://foropsyn.github.io/app/sitemap.html.gz
+Sitemap: https://foropsyn.github.io/assets/sitemap.html.gz
+Sitemap: https://foropsyn.github.io/css/sitemap.html.gz
+Sitemap: https://foropsyn.github.io/data/sitemap.html.gz
+Sitemap: https://foropsyn.github.io/includes/sitemap.html.gz
+Sitemap: https://foropsyn.github.io/item/sitemap.html.gz
+Sitemap: https://foropsyn.github.io/src/sitemap.html.gz
